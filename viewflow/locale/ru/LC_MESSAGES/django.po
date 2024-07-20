@@ -501,7 +501,7 @@ msgstr "Завершен"
 #: templates/viewflow/workflow/process_list.html:8
 #: templates/viewflow/workflow/task_list.html:8 workflow/models.py:251
 msgid "Process list"
-msgstr "Списко процессов"
+msgstr "Списки процессов"
 
 #: templates/viewflow/workflow/process_detail.html:23
 #: workflow/flow/views/dashboard.py:110 workflow/flow/views/list.py:31
